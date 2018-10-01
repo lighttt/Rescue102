@@ -1,0 +1,23 @@
+<resources>
+    <!-- App strings -->
+    <string name="app_name">Ambulance Resuce102</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Rescue 102 </string>
+    <string name="nav_header_subtitle">rescue102.codeslayersteam.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_exit">Exit</string>
+
+    <!-- Firebase messages -->
+    <string name="auth_failed">Failed to Authenticate</string>
+    <string name="auth_success">Authentication Success</string>
+
+
+    <!-- Firebase database fields -->
+    <string name="dbname_users">users</string>
+
+    <string name="field_username">username</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
